@@ -6,5 +6,13 @@ OBJECTIVE:</b>
 Predict whether a transaction is fraudulent based on various features of the transaction. This is binary classification problem where the target variable is <b>Fraud,</b> indicating whether a transaction is fraudulent (1) or legitimate (0).
 <br><br>
 <b>DATA DICTIONARY
-1. TransactionID:</b> Unique identifier for each transaction (integer).
-<b>2. TransactionAmount:</b> Amount of the transaction in USD (float).
+1. TransactionID:</b> Unique identifier for each transaction (integer).<br>
+<b>2. TransactionAmount:</b> Amount of the transaction in USD (float).<br>
+<b>3. TransactionTime:</b> Time of the transaction in hours since the first transaction (float).<br>
+<b>4. MerchantCategory:</b> Category of the merchant (categorical: 'Retail', 'Online', 'Restaurant', 'Travel').<br>
+<b>5. CustomerAge:</b> Age of the customer making the transaction (integer, ranging from 18 to 80).<br>
+<b>6. CustomerGender:</b> Gender of the customer (categorical: 'Male', 'Female').<br>
+<b>7. CustomerIncome:</b> Annual income of the customer in USD (integer, ranging from 20,000 to 200,000).<br>
+<b>8. TransactionLocation:</b> Location where the transaction took place (categorical: 'Urban', 'Suburban', 'Rural').<br>
+<b>9. PreviousFraudCount:</b> Number of fraudulent transactions by the customer in the past 6 months (integer, ranging from 0 to 5).<br>
+<b>10. Fraud:</b> Target variable indicating whether the transaction is fraudulent (1) or not (0) (binary).<br>
