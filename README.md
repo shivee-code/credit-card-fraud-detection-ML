@@ -5,8 +5,7 @@ OBJECTIVE:</b>
 <br>
 Predict whether a transaction is fraudulent based on various features of the transaction. This is binary classification problem where the target variable is <b>Fraud,</b> indicating whether a transaction is fraudulent (1) or legitimate (0).
 <br><br>
-<b>DATA DICTIONARY</b>
-<br>
+<b>DATA DICTIONARY</b><br><br>
 <b>1. TransactionID:</b> Unique identifier for each transaction (integer).<br>
 <b>2. TransactionAmount:</b> Amount of the transaction in USD (float).<br>
 <b>3. TransactionTime:</b> Time of the transaction in hours since the first transaction (float).<br>
