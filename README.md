@@ -1,5 +1,5 @@
 # credit-card-fraud-detection-ML
-<b>This is a Supervised Machine Learning-Project</b><br><br>
+<b>This is a Supervised Machine Learning-Project.</b><br><br>
 <b>Building a credit card fraud detection model using Logistic Regression Algorithm.</b>
 1. Essential Exploratory Data Analysis (EDA)<br>
 2. Data Preprocessing</br>
@@ -13,7 +13,7 @@
 <br>
 <b>Building a model using Support Vector Machine Algorithm.</b>
 
-OBJECTIVE:</b>
+<b>OBJECTIVE:</b>
 <br>
 Predict whether a transaction is fraudulent based on various features of the transaction. This is binary classification problem where the target variable is <b>Fraud,</b> indicating whether a transaction is fraudulent (1) or legitimate (0).
 <br><br>
@@ -28,3 +28,10 @@ Predict whether a transaction is fraudulent based on various features of the tra
 <b>8. TransactionLocation:</b> Location where the transaction took place (categorical: 'Urban', 'Suburban', 'Rural').<br>
 <b>9. PreviousFraudCount:</b> Number of fraudulent transactions by the customer in the past 6 months (integer, ranging from 0 to 5).<br>
 <b>10. Fraud:</b> Target variable indicating whether the transaction is fraudulent (1) or not (0) (binary).<br>
+<br>
+<b>Model Comparison (summary of accuracies)</b><br>
+Logistic Regrassion Accuracy: 75.33%
+K-Nearest Neighbors Accuracy: 75.00%
+Decision Tree Accuracy: 71.00%
+Support Vector Machine Accuracy: 77.00%
+
