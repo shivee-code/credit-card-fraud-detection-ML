@@ -4,6 +4,8 @@
 1. Essential Exploratory Data Analysis (EDA)<br>
 2. Data Preprocessing<br>
 <br><br>
+<b>Building a another model using KNN algorithm</b>
+<br><br>
 
 OBJECTIVE:</b>
 <br>
