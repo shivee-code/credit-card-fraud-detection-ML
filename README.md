@@ -3,6 +3,8 @@
 <b>Building a credit card fraud detection model using Logistic Regression Algorithm</b><br>
 1. Essential Exploratory Data Analysis (EDA)<br>
 2. Data Preprocessing</br>
+
+
 <b>Building a another model using KNN algorithm</b>
 <br><br>
 
