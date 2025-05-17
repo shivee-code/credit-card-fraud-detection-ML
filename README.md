@@ -1,4 +1,5 @@
 # credit-card-fraud-detection-ML
+<b>This is a Supervised Machine Learning-Project</b>
 <b>Building a credit card fraud detection model using Logistic Regression Algorithm
 <br><br>
 OBJECTIVE:</b>
