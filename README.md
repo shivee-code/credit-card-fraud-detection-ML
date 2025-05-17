@@ -17,7 +17,7 @@
 <br>
 Predict whether a transaction is fraudulent based on various features of the transaction. This is binary classification problem where the target variable is <b>Fraud,</b> indicating whether a transaction is fraudulent (1) or legitimate (0).
 <br><br>
-<b>DATA DICTIONARY</b><br><br>
+<b>DATA DICTIONARY</b><br>
 <b>1. TransactionID:</b> Unique identifier for each transaction (integer).<br>
 <b>2. TransactionAmount:</b> Amount of the transaction in USD (float).<br>
 <b>3. TransactionTime:</b> Time of the transaction in hours since the first transaction (float).<br>
@@ -30,8 +30,8 @@ Predict whether a transaction is fraudulent based on various features of the tra
 <b>10. Fraud:</b> Target variable indicating whether the transaction is fraudulent (1) or not (0) (binary).<br>
 <br>
 <b>Model Comparison (summary of accuracies)</b><br>
-Logistic Regrassion Accuracy: 75.33%
-K-Nearest Neighbors Accuracy: 75.00%
-Decision Tree Accuracy: 71.00%
-Support Vector Machine Accuracy: 77.00%
+Logistic Regrassion Accuracy: 75.33%<br>
+K-Nearest Neighbors Accuracy: 75.00%<br>
+Decision Tree Accuracy: 71.00%<br>
+Support Vector Machine Accuracy: 77.00%<br>
 
