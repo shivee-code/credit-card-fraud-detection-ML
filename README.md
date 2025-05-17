@@ -10,6 +10,8 @@
 <b>Building a model using Decision Tree Algorithm.</b>
 <br>
 <b>Building a model using Random Forest Algorithm.</b>
+<br>
+<b>Building a model using Support Vector Machine Algorithm.</b>
 
 OBJECTIVE:</b>
 <br>
