@@ -1,13 +1,15 @@
 # credit-card-fraud-detection-ML
 <b>This is a Supervised Machine Learning-Project</b><br><br>
-<b>Building a credit card fraud detection model using Logistic Regression Algorithm</b><br>
+<b>Building a credit card fraud detection model using Logistic Regression Algorithm.</b><br>
 1. Essential Exploratory Data Analysis (EDA)<br>
 2. Data Preprocessing</br>
 
 
-<b>Building a another model using KNN algorithm</b>
+<b>Building a another model using KNN algorithm.</b>
 <br>
-<b>Building a model using Decision Tree Algorithm</b>
+<b>Building a model using Decision Tree Algorithm.</b>
+<br>
+<b>Building a model using Random Forest Algorithm.</b>
 
 OBJECTIVE:</b>
 <br>
