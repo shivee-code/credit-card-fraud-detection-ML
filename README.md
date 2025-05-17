@@ -6,7 +6,8 @@
 
 
 <b>Building a another model using KNN algorithm</b>
-<br><br>
+<br>
+<b>Building a model using Decision Tree Algorithm</b>
 
 OBJECTIVE:</b>
 <br>
