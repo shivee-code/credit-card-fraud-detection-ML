@@ -35,7 +35,7 @@ K-Nearest Neighbors Accuracy: 75.00%<br>
 Decision Tree Accuracy: 71.00%<br>
 Support Vector Machine Accuracy: 77.00%<br>
 <br>
-<b>Otimization in Machine learning</b>
+<b>Otimization in Machine learning:</b>
 <br>
 Logistic Regression Best Params: {'C': 0.1, 'max_iter': 100, 'solver': 'lbfgs'}<br>
 Logistic Regression Best Accuracy: 0.7385714285714287<br>
