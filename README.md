@@ -37,18 +37,18 @@ Support Vector Machine Accuracy: 77.00%<br>
 <br>
 <b>Otimization in Machine learning</b>
 <br>
-Logistic Regression Best Params: {'C': 0.1, 'max_iter': 100, 'solver': 'lbfgs'
-Logistic Regression Best Accuracy: 0.7385714285714287
+Logistic Regression Best Params: {'C': 0.1, 'max_iter': 100, 'solver': 'lbfgs'}<br>
+Logistic Regression Best Accuracy: 0.7385714285714287<br>
 
-K-Nearest Neighbors Best Params: {'algorithm': 'auto', 'n_neighbors': 10, 'weights': 'distance'}
-K-Nearest Neighbors Best Accuracy: 0.75
+K-Nearest Neighbors Best Params: {'algorithm': 'auto', 'n_neighbors': 10, 'weights': 'distance'}<br>
+K-Nearest Neighbors Best Accuracy: 0.75<br>
 
-Decision Tree Best Params: {'criterion': 'gini', 'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 5}
-Decision Tree Best Accuracy: 0.7657142857142858
+Decision Tree Best Params: {'criterion': 'gini', 'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 5}<br>
+Decision Tree Best Accuracy: 0.7657142857142858<br>
 
-Random Forest Best Params: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}
-Random Forest Best Accuracy: 0.7971428571428572
+Random Forest Best Params: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}<br>
+Random Forest Best Accuracy: 0.7971428571428572<br>
 
-Support Vector Machine Best Params: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
-Support Vector Machine Best Accuracy: 0.7485714285714286
+Support Vector Machine Best Params: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}<br>
+Support Vector Machine Best Accuracy: 0.7485714285714286<br>
 
