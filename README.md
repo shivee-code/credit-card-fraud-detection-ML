@@ -34,4 +34,6 @@ Logistic Regrassion Accuracy: 75.33%<br>
 K-Nearest Neighbors Accuracy: 75.00%<br>
 Decision Tree Accuracy: 71.00%<br>
 Support Vector Machine Accuracy: 77.00%<br>
+<br>
+<b>Otimization in Machine learning</b>
 
